@@ -6,6 +6,7 @@
 
 body {
   background-color: #EFEEF3;
+  font-family: "kodchasan";
 }
 
 header {
@@ -62,4 +63,8 @@ main .caixa1 {
     text-align: center;
     margin-top: 30px;
   }
+}
+
+.subtitulo {
+  margin-bottom: 20px;
 }/*# sourceMappingURL=style.css.map */
